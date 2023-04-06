@@ -1,6 +1,6 @@
 <p align="justify">
   👋👋👋 Welcome to my Github profile! 👋👋👋<br><br>
-  I am a senior Software Engineer with 6 years coding experiences of Objective C, Swift, Java, Kotlin, Javascript and php.<br>
+  &nbsp;&nbsp;I am a senior Software Engineer with 6 years coding experiences of Objective C, Swift, Java, Kotlin, Javascript and php.<br>
   Over the last years, I have built several kinds of mobile apps with Native(iOS/Android) & Hybrid frameworks(React Native / Ionic) and some desktop&Mac OS apps.<br>&nbsp;&nbsp;I am a 👨‍💻creative & self-motivated👨‍💻 developer and always enjoy studying new technology. 
   Since I have a strong knowledge of basics such as common design patterns and popular SDKs, I can suggest good idea and resolve bugs for your
 project and will provide high quality result.<br>
