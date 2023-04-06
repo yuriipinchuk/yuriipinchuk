@@ -10,6 +10,8 @@ project and will provide high quality result.<br>
   - Native iOS (Swift / Objective-C)      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2RjNmJhOTc0ODhlNjk1MzVkMDQ0ZmI3YmQxZmI2Y2VhZGM1Y2FjNyZjdD1n/3o7qE1YN7aBOFPRw8E/giphy.gif?raw=true" width="26.5%" height=auto align="right" alt="Computador">
   - Native Android (Kotlin / Java)
   - React Native (javascript/typescript)
+  - Mac OS App (Swift)
+  - WPF (C#)
   - Node js (firebase cloud function, aws lambda function)
   
 [![My Skills](https://skillicons.dev/icons?i=swift,kotlin,react,androidstudio,nodejs,firebase,github&perline=15&theme=dark)](https://skillicons.dev)
