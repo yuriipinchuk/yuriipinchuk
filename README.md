@@ -14,4 +14,4 @@ project and will provide high quality result.<br>
   - WPF (C#)
   - Node js (firebase cloud function, aws lambda function)
   
-[![My Skills](https://skillicons.dev/icons?i=swift,kotlin,react,androidstudio,nodejs,firebase,github&perline=15&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,kotlin,react,androidstudio,nodejs,php,firebase,github&perline=15&theme=dark)](https://skillicons.dev)
